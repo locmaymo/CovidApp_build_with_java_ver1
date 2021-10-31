@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <group android:checkableBehavior="single">-->
+
+<!--        <item android:id="@+id/nav_home"-->
+<!--            android:title="@string/nav_home"-->
+<!--            android:icon="@drawable/ic_home"/>-->
+
+<!--        <item android:id="@+id/nav_search"-->
+<!--            android:title="@string/nav_find_other_country"-->
+<!--            android:icon="@drawable/ic_search"/>-->
+
+<!--        <item android:id="@+id/nav_symptom"-->
+<!--            android:title="@string/nav_symptom"-->
+<!--            android:icon="@drawable/ic_virus"/>-->
+<!--    </group>-->
+
+<!--    <item android:title="@string/nav_account" >-->
+
+<!--        <menu>-->
+<!--            <item android:id="@+id/nav_my_account"-->
+<!--                android:title="@string/nav_my_account"-->
+<!--                android:icon="@drawable/ic_account"/>-->
+
+<!--            <item android:id="@+id/nav_log_out"-->
+<!--                android:title="@string/nav_log_out"-->
+<!--                android:icon="@drawable/ic_login"/>-->
+
+<!--        </menu>-->
+<!--    </item>-->
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/home_selector"/>
+
+    <item android:id="@+id/nav_search"
+        android:icon="@drawable/search_selector"/>
+
+    <item android:id="@+id/nav_symptom"
+        android:icon="@drawable/infor_selector"/>
+</menu>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_email_icon.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_input.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_lock_icon.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_person_icon.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_phone_icon.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_lock.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_lock_focused.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_mail.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_mail_focused.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_person.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_person_focused.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_phone.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_phone_focused.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_undraw_pet_adoption_2qkw_1.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/button_round.xml" value="1.0" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/edittext.xml" value="0.28177083333333336" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/home_selector.xml" value="0.28177083333333336" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/ic_home.xml" value="0.28177083333333336" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/infor_selector.xml" value="0.35" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/mmtjbx01.xml" value="0.3015625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/search_selector.xml" value="0.28177083333333336" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/drawable/selector.xml" value="0.28177083333333336" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_city_finder.xml" value="0.28541666666666665" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_dash_board.xml" value="0.265625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_home_page2.xml" value="0.33" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_register.xml" value="0.28541666666666665" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_symptom.xml" value="0.33" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/layout_header_nav.xml" value="0.265625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/layout/splash_screen.xml" value="0.265625" />
+        <entry key="..\:/Learning/Dai hoc/java/app dev/CovidApp_build_with_java_ver1/app/src/main/res/menu/menu_nav.xml" value="0.265625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_email_icon.xml" value="0.290625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_input.xml" value="0.290625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_lock_icon.xml" value="0.290625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/custom_phone_icon.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_cats.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_mail.xml" value="0.290625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_mail_focused.xml" value="0.290625" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_person_focused.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_phone_focused.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable-v24/ic_undraw_pet_adoption_2qkw_1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/buttondesign.xml" value="0.2723076923076923" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/edittext.xml" value="0.2723076923076923" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2723076923076923" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/mmtjbx01.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/drawable/selector.xml" value="0.28615384615384615" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_city_finder.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_dash_board.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_login.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_register.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/activity_symptom.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/layout_header_nav.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/layout/nav_bar.xml" value="0.264" />
+        <entry key="..\:/Users/AnhDuc/AndroidStudioProjects/CovidApp_build_with_java_ver1/app/src/main/res/menu/menu_nav.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.75" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

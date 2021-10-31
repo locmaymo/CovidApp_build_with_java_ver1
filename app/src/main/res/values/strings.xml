@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CovidApp_build_with_java_ver1</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_find_other_country">Other Country</string>
+    <string name="nav_symptom">Symptom</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_my_account">My_Account</string>
+    <string name="nav_log_out">Log Out</string>
+
+    <string name="nav_drawer_open">Open nav drawer</string>
+    <string name="nav_drawer_close">Close nav drawer</string>
+</resources>
